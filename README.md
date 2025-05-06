@@ -17,12 +17,10 @@
   </a>
 </div>
 
-## 💻 Skills & Technologies
-
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> 
-    <span>Skills & Technologies</span>
+    <span>## 💻 Skills & Technologies</span>
   </h2>
 </div>
 
